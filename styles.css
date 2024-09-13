@@ -64,3 +64,49 @@ p{
     padding-right: 20px;
     margin-top: 50px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.extras-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.extras {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.extras-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.extras-videos img:hover {
+    opacity: 1.0;
+    border: 3px solid green;
+}
+
+.extras h2 {
+    color: rgb(148, 142, 142);
+}
+
+.extras {
+
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
